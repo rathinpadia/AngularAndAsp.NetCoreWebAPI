@@ -1,0 +1,17 @@
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\obj\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.csprojAssemblyReference.cache
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\obj\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\obj\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.AssemblyInfoInputs.cache
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\obj\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.AssemblyInfo.cs
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.deps.json
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.runtimeconfig.json
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.runtimeconfig.dev.json
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.dll
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.pdb
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\TrainingWebAPI.dll
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\bin\Debug\netcoreapp2.1\TrainingWebAPI.pdb
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\obj\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.csproj.CopyComplete
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\obj\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.dll
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI.IntegrationTests\obj\Debug\netcoreapp2.1\TrainingWebAPI.IntegrationTests.pdb

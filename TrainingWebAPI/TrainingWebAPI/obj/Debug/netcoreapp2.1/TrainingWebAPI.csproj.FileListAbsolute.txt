@@ -1,0 +1,13 @@
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\bin\Debug\netcoreapp2.1\TrainingWebAPI.deps.json
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\bin\Debug\netcoreapp2.1\TrainingWebAPI.runtimeconfig.json
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\bin\Debug\netcoreapp2.1\TrainingWebAPI.runtimeconfig.dev.json
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\bin\Debug\netcoreapp2.1\TrainingWebAPI.dll
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\obj\Debug\netcoreapp2.1\TrainingWebAPI.csproj.CoreCompileInputs.cache
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\obj\Debug\netcoreapp2.1\TrainingWebAPI.RazorAssemblyInfo.cache
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\obj\Debug\netcoreapp2.1\TrainingWebAPI.RazorAssemblyInfo.cs
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\obj\Debug\netcoreapp2.1\TrainingWebAPI.AssemblyInfoInputs.cache
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\obj\Debug\netcoreapp2.1\TrainingWebAPI.AssemblyInfo.cs
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\obj\Debug\netcoreapp2.1\TrainingWebAPI.RazorTargetAssemblyInfo.cache
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\bin\Debug\netcoreapp2.1\TrainingWebAPI.pdb
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\obj\Debug\netcoreapp2.1\TrainingWebAPI.dll
+C:\Study\.Net Core\TrainingProject\TrainingWebAPI\TrainingWebAPI\obj\Debug\netcoreapp2.1\TrainingWebAPI.pdb
