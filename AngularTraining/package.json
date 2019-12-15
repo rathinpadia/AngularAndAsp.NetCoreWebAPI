@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~8.0.1",
     "@angular/platform-browser-dynamic": "~8.0.1",
     "@angular/router": "~8.0.1",
-    "bootstrap": "4.1.1",
+    "bootstrap": "4.3.1",
     "date-diff": "^0.2.1",
     "ngx-bootstrap": "^5.2.0",
     "ngx-toastr": "^11.2.1",
